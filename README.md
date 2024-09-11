@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Albert! 
 
-<!--
-**Albert337/Albert337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning Everything I like.
+- 💬 Ask me about anything related to AI/autodrving.
+- :smile: _happy live，happy code_
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=Albert337&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You are my ![Visitor Count](https://profile-counter.glitch.me/Albert337/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+
+### My Skill Set
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert337&layout=compact&theme=tokyonight)
